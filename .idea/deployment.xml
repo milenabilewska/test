@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="xampp" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="xampp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="D:\Programy\XAMPP\htdocs\test" local="$PROJECT_DIR$" web="/test" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="D:\Programy\XAMPP\htdocs\test" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
